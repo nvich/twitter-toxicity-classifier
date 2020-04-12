@@ -1,12 +1,12 @@
-# Nerd Calistênico - Twitter Bot - @nerdcalistenico
+# A tool to analyze and visualize toxicity in Twitter
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![GitHub issues](https://img.shields.io/github/issues/org-descco/nc-twitter-bot.svg)](https://github.com/org-descco/nc-twitter-bot/issues)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/org-descco/nc-twitter-bot.svg)
-![GitHub Release Date](https://img.shields.io/github/release-date/org-descco/nc-twitter-bot.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/org-descco/nc-twitter-bot.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/org-descco/nc-twitter-bot.svg)
-![GitHub All Releases](https://img.shields.io/github/downloads/org-descco/nc-twitter-bot/total.svg)
+[![GitHub issues](https://img.shields.io/github/issues/org-descco/twitter-toxicity-classifier.svg)](https://github.com/org-descco/twitter-toxicity-classifier/issues)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/org-descco/twitter-toxicity-classifier.svg)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-descco/twitter-toxicity-classifier.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-descco/twitter-toxicity-classifier.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-descco/twitter-toxicity-classifier.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-descco/twitter-toxicity-classifier/total.svg)
 
 ## Contributing
 
@@ -18,7 +18,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/org-descco/nc-twitter-bot/releases) for detailed changelog.
+Check [Releases](https://github.com/org-descco/twitter-toxicity-classifier/releases) for detailed changelog.
 
 ## License
 
